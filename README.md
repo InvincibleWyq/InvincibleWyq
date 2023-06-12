@@ -25,6 +25,6 @@ I'm a contributor for 🔭[MMAction2](https://github.com/open-mmlab/mmaction2) a
 - 👯 I’m looking to collaborate on long-form video understanding and multi-modality learning.
 - 🔭 I’m also interested in High Performance Computing.
 - 📫 Reach me at **[wyq1217@outlook.com](mailto:wyq1217@outlook.com)**
-- 😄 Pronouns: Yee-Kin Wong
+- 😄 Pronouns: Yee-Kin
 
 ![InvincibleWyq's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvincibleWyq&theme=shades-of-purple&show_icons=true)
