@@ -22,8 +22,8 @@ I'm about to pursue a master's degree under [Prof. Yansong Tang](https://andytan
 I'm a contributor for 🔭[MMAction2](https://github.com/open-mmlab/mmaction2) and 🔭[MMPretrain](https://github.com/open-mmlab/mmpretrain).
 
 - :two_men_holding_hands: I’m currently an ✨ intern@[Open-MMLab](https://openmmlab.com/), under supervision from [Dr. Songyang Zhang](http://www.zhangsongyang.com/) and [Dr. Kai Chen](https://github.com/hellock)
-- 👯 I’m looking to collaborate on video understanding, multi-modality learning.
-- 🔭 I’m also interested in High Performance Computing.currently learning
+- 👯 I’m looking to collaborate on long-form video understanding and multi-modality learning.
+- 🔭 I’m also interested in High Performance Computing.
 - 📫 How to reach me **[Email](mailto:wyq1217@outlook.com)**
 - 😄 Pronouns: Yee-King Wong
 
