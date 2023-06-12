@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Yiqin</h1>
 
-I'm a undergraduate student at Department of Automation, Tsinghua University, Class of 2023.
+I'm an undergraduate student at Department of Automation, Tsinghua University, Class of 2023.
 
 I'm about to pursue a master's degree under [Prof. Yansong Tang](https://andytang15.github.io/) at [TBSI](https://www.tbsi.edu.cn/), Tsinghua University.
 
@@ -25,6 +25,6 @@ I'm a contributor for 🔭[MMAction2](https://github.com/open-mmlab/mmaction2) a
 - 👯 I’m looking to collaborate on long-form video understanding and multi-modality learning.
 - 🔭 I’m also interested in High Performance Computing.
 - 📫 Reach me at **[wyq1217@outlook.com](mailto:wyq1217@outlook.com)**
-- 😄 Pronouns: Yee-King Wong
+- 😄 Pronouns: Yee-Kin Wong
 
 ![InvincibleWyq's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvincibleWyq&theme=shades-of-purple&show_icons=true)
