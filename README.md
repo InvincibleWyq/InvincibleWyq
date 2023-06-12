@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Yiqin</h1>
 
-I'm an undergraduate student at Department of Automation, Tsinghua University, Class of 2023.
+I'm an undergraduate student at [Department of Automation](https://www.au.tsinghua.edu.cn/), Tsinghua University, Class of 2023.
 
 I'm about to pursue a master's degree under [Prof. Yansong Tang](https://andytang15.github.io/) at [TBSI](https://www.tbsi.edu.cn/), Tsinghua University.
 
