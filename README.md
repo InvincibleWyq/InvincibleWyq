@@ -24,7 +24,7 @@ I'm a contributor for 🔭[MMAction2](https://github.com/open-mmlab/mmaction2) a
 - :two_men_holding_hands: I’m currently an ✨ intern@[Open-MMLab](https://openmmlab.com/), under supervision from [Dr. Songyang Zhang](http://www.zhangsongyang.com/) and [Dr. Kai Chen](https://chenkai.site/)
 - 👯 I’m looking to collaborate on long-form video understanding and multi-modality learning.
 - 🔭 I’m also interested in High Performance Computing.
-- 📫 How to reach me **[Email](mailto:wyq1217@outlook.com)**
+- 📫 Reach me at **[wyq1217@outlook.com](mailto:wyq1217@outlook.com)**
 - 😄 Pronouns: Yee-King Wong
 
 ![InvincibleWyq's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvincibleWyq&theme=shades-of-purple&show_icons=true)
