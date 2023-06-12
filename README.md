@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Yiqin</h1>
 
-### 🔥🔥🔥 We released [ChatVID](https://github.com/InvincibleWyq/ChatVID), try out the demo!
+### 🔥🔥🔥 We released [ChatVID](https://github.com/InvincibleWyq/ChatVID), try out the demo🤗 !!! [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Yiqin/ChatVID)
 
 I'm an undergraduate student at [Department of Automation](https://www.au.tsinghua.edu.cn/), Tsinghua University, Class of 2023.
 
