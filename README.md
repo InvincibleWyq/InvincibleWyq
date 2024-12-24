@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Yiqin</h1>
 
-I am pursuing a master's degree under [Prof. Yansong Tang](https://andytang15.github.io/) at [TBSI](https://www.tbsi.edu.cn/), Tsinghua University.
+I am pursuing a master's degree under [Prof. Yansong Tang](https://andytang15.github.io/) at [TBSI](https://www.tbsi.edu.cn/), Tsinghua University, Class of 2026.
 
 I am currently interning at Tiktok, focusing on streaming video understanding.
 
