@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Yiqin</h1>
 
-### 🔥 We released [ChatVID](https://github.com/InvincibleWyq/ChatVID), please give us a Star⭐ and try out the Demo🤗 !!! [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Yiqin/ChatVID)
+I am pursuing a master's degree under [Prof. Yansong Tang](https://andytang15.github.io/) at [TBSI](https://www.tbsi.edu.cn/), Tsinghua University.
 
-I'm pursuing a master's degree under [Prof. Yansong Tang](https://andytang15.github.io/) at [TBSI](https://www.tbsi.edu.cn/), Tsinghua University.
+I am currently interning at Tiktok, focusing on streaming video understanding.
 
-Before that, I'm an undergraduate student at [Department of Automation](https://www.au.tsinghua.edu.cn/), Tsinghua University, Class of 2023.
+Before that, I was an undergraduate student at [Department of Automation](https://www.au.tsinghua.edu.cn/), Tsinghua University, Class of 2023.
 
-- :two_men_holding_hands: I'm a contributor for 🔭[MMAction2](https://github.com/open-mmlab/mmaction2) and 🔭[MMPretrain](https://github.com/open-mmlab/mmpretrain).
-- 👯 I’m looking to collaborate on long-form video understanding and multi-modality learning.
+I was an research intern at Shanghai AI Laboratory from 2022 to 2023, where I contribute to  🔭[MMAction2](https://github.com/open-mmlab/mmaction2) and 🔭[MMPretrain](https://github.com/open-mmlab/mmpretrain).
+
+- 👯 I’m looking to collaborate on visual GUI agent, long-form video understanding and multi-modality learning.
 - 📫 Reach me at **[wyq1217@outlook.com](mailto:wyq1217@outlook.com)**
 - 😄 Pronouns: Yee-Kin
 
