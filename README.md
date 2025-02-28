@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am pursuing a master's degree under [Prof. Yansong Tang](https://andytang15.github.io/) at [TBSI](https://www.tbsi.edu.cn/), Tsinghua University, Class of 2026.
 
-I am currently interning at Tiktok, focusing on streaming video understanding.
+I am currently focusing on joint-RL for Multimodal LLM.
 
 Before that, I was an undergraduate student at [Department of Automation](https://www.au.tsinghua.edu.cn/), Tsinghua University, Class of 2023.
 
