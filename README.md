@@ -23,7 +23,8 @@ Before that, I was an undergraduate student at [Department of Automation](https:
 
 I was an research intern at Shanghai AI Laboratory from 2022 to 2023, where I contribute to  🔭[MMAction2](https://github.com/open-mmlab/mmaction2) and 🔭[MMPretrain](https://github.com/open-mmlab/mmpretrain).
 
-- 👯 I’m looking to collaborate on visual GUI agent, long-form video understanding and multi-modality learning.
+- 👯 I’m interested in job positions in Mainland China, Hong Kong, Singapore, and the US.
+- 🤔 Refer to my [scholar profile](https://scholar.google.com/citations?user=dpRjm1sAAAAJ) for my recent research directions.
 - 📫 Reach me at **[wyq1217@outlook.com](mailto:wyq1217@outlook.com)**
 - 😄 Pronouns: Yee-Kin
 
